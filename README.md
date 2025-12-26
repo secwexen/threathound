@@ -35,8 +35,8 @@ ThreatHound/
 ├─ requirements.txt
 ├─ threathound/
    ├─ __init__.py
-   ├─ parser.py
    ├─ detector.py
+   ├─ parser.py
    └── report.py
 ```
 
