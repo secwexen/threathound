@@ -51,7 +51,7 @@ ThreatHound/
 
 ```bash
 git clone https://github.com/secwexen/threathound.git
-cd ThreatHound
+cd threathound
 
 python -m venv venv
 # On Windows:
