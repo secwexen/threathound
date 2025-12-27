@@ -1,1 +1,7 @@
-
+colorama
+pandas
+pywin32
+python-dateutil
+requests
+sigma
+tqdm
